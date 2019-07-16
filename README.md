@@ -9,3 +9,7 @@
 ## 这个小例子主要运用了better-scroll插件,vue-router,axios请求本地json
 ### 项目效果:
 ![](https://github.com/1505069266/eleme-example/blob/master/images/11.png)
+![](https://github.com/1505069266/eleme-example/blob/master/images/22.png)
+![](https://github.com/1505069266/eleme-example/blob/master/images/33.png)
+![](https://github.com/1505069266/eleme-example/blob/master/images/44.png)
+![](https://github.com/1505069266/eleme-example/blob/master/images/55.png)
